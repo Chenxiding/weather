@@ -1,2 +1,2 @@
-ÕâÊÇÒ»¸öÍ¨¹ıµ÷ÓÃÌìÆøµÄ¿ªÔ´½Ó¿ÚÊµÏÖµÄÒ»¸ö¼òµ¥µÄÌìÆø²éÑ¯Ğ¡³ÌĞò¡£
+è¿™æ˜¯ä¸€ä¸ªé€šè¿‡è°ƒç”¨å¤©æ°”çš„å¼€æºæ¥å£å®ç°çš„ä¸€ä¸ªç®€å•çš„å¤©æ°”æŸ¥è¯¢å°ç¨‹åºã€‚<br/>
 This is a simple weather query program implemented by calling the open source interface of the weather.
